@@ -37,7 +37,7 @@ variable "vpc_id" {
 
 # Optional variables
 variable "cluster_size" {
-  default     = "3"
+  default     = "4"
   description = "Number of instances to launch in the cluster"
 }
 
